@@ -1,14 +1,23 @@
 #container{
-	width:960px;
-	background-color: blue;
+	width:100%;
 }
 
-div.sketchBox{
+#grid, #controls, #buttons{
+	margin: 0 auto;
+}
+
+#controls{
+	width:50%;
+}
+
+#buttons{
+	width:400px;
+}
+
+.sketchBox{
 	background-color: black;
-	width: 100px;
-	height: 100px;
 	display: inline-block;
-	margin: 2px; 
+	margin: 1px; 
 };
 
 
