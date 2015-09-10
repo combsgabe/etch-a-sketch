@@ -1,0 +1,15 @@
+#container{
+	width:960px;
+	background-color: blue;
+}
+
+div.sketchBox{
+	background-color: black;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin: 2px; 
+};
+
+
+
